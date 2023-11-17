@@ -15,7 +15,7 @@ Employee6 = Employee("Sathish",456,"Python","Hyderabad","Male")
 Employee7 = Employee("Poorna",888,"Devops","Hyderabad","Male")
 Employee8 = Employee("Harish",789,"Devops","Hyderabad","Male")
 Employee9 = Employee("Swamy",889,"Technical Support","Hyderabad","Male")
-Employee10 = Employee("Sreenu",999,"Technical Support","Hyderabad","Male")
+Employee10 =Employee("Sreenu",999,"Technical Support","Hyderabad","Male")
 
 print("Employee Name:", Employee1.name)
 print("Employee Id:", Employee1.Id)
